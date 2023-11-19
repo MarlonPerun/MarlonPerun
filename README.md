@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarlonPerun
-- 👀 I’m interested in aviation, mountains & software/web development
-- 🌱 I’m currently learning Swift and JavaScript
+- 👀 I’m interested in aviation, digital privacy/security & software/web development
+- 🌱 I’m a FOSS enthusiast
 
 <!---
 MarlonPerun/MarlonPerun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
